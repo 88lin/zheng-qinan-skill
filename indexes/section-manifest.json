@@ -1,0 +1,2204 @@
+[
+  {
+    "book": "yilizhenchuan",
+    "juan": 0,
+    "section_no": 1,
+    "id": "yilizhenchuan#j0-s001",
+    "title": "电子版序"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 0,
+    "section_no": 2,
+    "id": "yilizhenchuan#j0-s002",
+    "title": "火神立名之本（代序）"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 0,
+    "section_no": 3,
+    "id": "yilizhenchuan#j0-s003",
+    "title": "郑钦安原叙"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 0,
+    "section_no": 4,
+    "id": "yilizhenchuan#j0-s004",
+    "title": "序"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 0,
+    "section_no": 5,
+    "id": "yilizhenchuan#j0-s005",
+    "title": "前言"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 0,
+    "id": "yilizhenchuan#j1-s000",
+    "title": "医理真传卷一",
+    "kind": "juan_head"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 1,
+    "id": "yilizhenchuan#j1-s001",
+    "title": "乾坤大旨"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 2,
+    "id": "yilizhenchuan#j1-s002",
+    "title": "坎卦"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 3,
+    "id": "yilizhenchuan#j1-s003",
+    "title": "离卦"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 4,
+    "id": "yilizhenchuan#j1-s004",
+    "title": "气、血两字作一卦解"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 5,
+    "id": "yilizhenchuan#j1-s005",
+    "title": "君、相二火解"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 6,
+    "id": "yilizhenchuan#j1-s006",
+    "title": "真龙约言"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 7,
+    "id": "yilizhenchuan#j1-s007",
+    "title": "五行总括图"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 8,
+    "id": "yilizhenchuan#j1-s008",
+    "title": "三焦部位〔说〕"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 9,
+    "id": "yilizhenchuan#j1-s009",
+    "title": "五运所化"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 10,
+    "id": "yilizhenchuan#j1-s010",
+    "title": "五行本体受病相传为病"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 11,
+    "id": "yilizhenchuan#j1-s011",
+    "title": "论气血盛衰篇"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 12,
+    "id": "yilizhenchuan#j1-s012",
+    "title": "辨认一切阳虚证法"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 13,
+    "id": "yilizhenchuan#j1-s013",
+    "title": "辨认一切阴虚证法"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 14,
+    "id": "yilizhenchuan#j1-s014",
+    "title": "外感说"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 15,
+    "id": "yilizhenchuan#j1-s015",
+    "title": "内伤说"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 16,
+    "id": "yilizhenchuan#j1-s016",
+    "title": "望色"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 17,
+    "id": "yilizhenchuan#j1-s017",
+    "title": "闻声"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 18,
+    "id": "yilizhenchuan#j1-s018",
+    "title": "问症"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 19,
+    "id": "yilizhenchuan#j1-s019",
+    "title": "切脉"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 20,
+    "id": "yilizhenchuan#j1-s020",
+    "title": "伤寒六经提纲病情"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 21,
+    "id": "yilizhenchuan#j1-s021",
+    "title": "六经定法贯解"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 22,
+    "id": "yilizhenchuan#j1-s022",
+    "title": "太阳经证解"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 23,
+    "id": "yilizhenchuan#j1-s023",
+    "title": "阳明经证解"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 24,
+    "id": "yilizhenchuan#j1-s024",
+    "title": "少阳经证解"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 25,
+    "id": "yilizhenchuan#j1-s025",
+    "title": "太阴经证解"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 26,
+    "id": "yilizhenchuan#j1-s026",
+    "title": "少阴经证解"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 1,
+    "section_no": 27,
+    "id": "yilizhenchuan#j1-s027",
+    "title": "厥阴经证解"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 2,
+    "section_no": 0,
+    "id": "yilizhenchuan#j2-s000",
+    "title": "医理真传卷二",
+    "kind": "juan_head"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 2,
+    "section_no": 1,
+    "id": "yilizhenchuan#j2-s001",
+    "title": "阳虚症门问答"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 2,
+    "section_no": 2,
+    "id": "yilizhenchuan#j2-s002",
+    "title": "客疑篇"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 3,
+    "section_no": 0,
+    "id": "yilizhenchuan#j3-s000",
+    "title": "医理真传卷三",
+    "kind": "juan_head"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 3,
+    "section_no": 1,
+    "id": "yilizhenchuan#j3-s001",
+    "title": "阴虚症门问答"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 0,
+    "id": "yilizhenchuan#j4-s000",
+    "title": "医理真传卷四",
+    "kind": "juan_head"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 1,
+    "id": "yilizhenchuan#j4-s001",
+    "title": "杂问"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 2,
+    "id": "yilizhenchuan#j4-s002",
+    "title": "切脉约言"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 3,
+    "id": "yilizhenchuan#j4-s003",
+    "title": "三指说"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 4,
+    "id": "yilizhenchuan#j4-s004",
+    "title": "拙见解"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 5,
+    "id": "yilizhenchuan#j4-s005",
+    "title": "气机循环图"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 6,
+    "id": "yilizhenchuan#j4-s006",
+    "title": "再解古脉说"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 7,
+    "id": "yilizhenchuan#j4-s007",
+    "title": "五行说"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 9,
+    "id": "yilizhenchuan#j4-s009",
+    "title": "发热类"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 10,
+    "id": "yilizhenchuan#j4-s010",
+    "title": "疟疾"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 11,
+    "id": "yilizhenchuan#j4-s011",
+    "title": "鼓胀"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 12,
+    "id": "yilizhenchuan#j4-s012",
+    "title": "积聚"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 13,
+    "id": "yilizhenchuan#j4-s013",
+    "title": "痰饮"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 14,
+    "id": "yilizhenchuan#j4-s014",
+    "title": "咳嗽"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 15,
+    "id": "yilizhenchuan#j4-s015",
+    "title": "喘"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 16,
+    "id": "yilizhenchuan#j4-s016",
+    "title": "呕吐"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 17,
+    "id": "yilizhenchuan#j4-s017",
+    "title": "霍乱"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 18,
+    "id": "yilizhenchuan#j4-s018",
+    "title": "呃逆"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 19,
+    "id": "yilizhenchuan#j4-s019",
+    "title": "痢症"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 20,
+    "id": "yilizhenchuan#j4-s020",
+    "title": "头痛"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 21,
+    "id": "yilizhenchuan#j4-s021",
+    "title": "耳、目、口、鼻、唇、齿、喉"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 22,
+    "id": "yilizhenchuan#j4-s022",
+    "title": "心痛"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 23,
+    "id": "yilizhenchuan#j4-s023",
+    "title": "胸、腹、胁、背、腰、肘、胯、膝，痛、肿"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 24,
+    "id": "yilizhenchuan#j4-s024",
+    "title": "二便病"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 25,
+    "id": "yilizhenchuan#j4-s025",
+    "title": "辨认脉法"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 26,
+    "id": "yilizhenchuan#j4-s026",
+    "title": "辨认诸症法"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 27,
+    "id": "yilizhenchuan#j4-s027",
+    "title": "辨认疮法"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 28,
+    "id": "yilizhenchuan#j4-s028",
+    "title": "辨认痘法"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 29,
+    "id": "yilizhenchuan#j4-s029",
+    "title": "辨认目疾法"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 30,
+    "id": "yilizhenchuan#j4-s030",
+    "title": "辨色法"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 31,
+    "id": "yilizhenchuan#j4-s031",
+    "title": "辨舌法"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 32,
+    "id": "yilizhenchuan#j4-s032",
+    "title": "辨口气"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 33,
+    "id": "yilizhenchuan#j4-s033",
+    "title": "辨口流涎水"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 34,
+    "id": "yilizhenchuan#j4-s034",
+    "title": "辨二便"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 35,
+    "id": "yilizhenchuan#j4-s035",
+    "title": "辨皮毛肌肤"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 36,
+    "id": "yilizhenchuan#j4-s036",
+    "title": "辨饮食"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 37,
+    "id": "yilizhenchuan#j4-s037",
+    "title": "辨起居性情"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 38,
+    "id": "yilizhenchuan#j4-s038",
+    "title": "钦安用药金针"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 39,
+    "id": "yilizhenchuan#j4-s039",
+    "title": "寒邪外入图"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 40,
+    "id": "yilizhenchuan#j4-s040",
+    "title": "寒邪内生图"
+  },
+  {
+    "book": "yilizhenchuan",
+    "juan": 4,
+    "section_no": 41,
+    "id": "yilizhenchuan#j4-s041",
+    "title": "附：禳久病不愈，一切怪症奇疮善法小神作祟亦同"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 1,
+    "id": "yifayuantong#j1-s001",
+    "title": "用药弊端说"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 2,
+    "id": "yifayuantong#j1-s002",
+    "title": "各症辩认阴阳用药法眼"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 3,
+    "id": "yifayuantong#j1-s003",
+    "title": "心病不安"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 4,
+    "id": "yifayuantong#j1-s004",
+    "title": "肺病咳嗽"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 5,
+    "id": "yifayuantong#j1-s005",
+    "title": "肺痿肺痈"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 6,
+    "id": "yifayuantong#j1-s006",
+    "title": "胃病不食"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 7,
+    "id": "yifayuantong#j1-s007",
+    "title": "脾病呕吐泄泻"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 8,
+    "id": "yifayuantong#j1-s008",
+    "title": "肝病筋挛"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 9,
+    "id": "yifayuantong#j1-s009",
+    "title": "肾病腰痛"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 10,
+    "id": "yifayuantong#j1-s010",
+    "title": "头痛"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 11,
+    "id": "yifayuantong#j1-s011",
+    "title": "目病"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 12,
+    "id": "yifayuantong#j1-s012",
+    "title": "耳病肿痛"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 13,
+    "id": "yifayuantong#j1-s013",
+    "title": "鼻流清涕"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 14,
+    "id": "yifayuantong#j1-s014",
+    "title": "鼻孔煽动"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 15,
+    "id": "yifayuantong#j1-s015",
+    "title": "唇口红肿"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 16,
+    "id": "yifayuantong#j1-s016",
+    "title": "齿牙肿痛"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 17,
+    "id": "yifayuantong#j1-s017",
+    "title": "口臭"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 18,
+    "id": "yifayuantong#j1-s018",
+    "title": "舌肿、舌痛、重舌、舌强、舌麻、舌木、舌缩"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 19,
+    "id": "yifayuantong#j1-s019",
+    "title": "喉蛾"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 20,
+    "id": "yifayuantong#j1-s020",
+    "title": "两手膀背痛"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 21,
+    "id": "yifayuantong#j1-s021",
+    "title": "心痛"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 22,
+    "id": "yifayuantong#j1-s022",
+    "title": "胃痛"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 23,
+    "id": "yifayuantong#j1-s023",
+    "title": "脐痛"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 24,
+    "id": "yifayuantong#j1-s024",
+    "title": "疝证"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 1,
+    "section_no": 25,
+    "id": "yifayuantong#j1-s025",
+    "title": "遗精"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 1,
+    "id": "yifayuantong#j2-s001",
+    "title": "大便不利"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 2,
+    "id": "yifayuantong#j2-s002",
+    "title": "小便不利"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 3,
+    "id": "yifayuantong#j2-s003",
+    "title": "淋证"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 4,
+    "id": "yifayuantong#j2-s004",
+    "title": "膝肿痛"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 5,
+    "id": "yifayuantong#j2-s005",
+    "title": "脚气"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 6,
+    "id": "yifayuantong#j2-s006",
+    "title": "喘证"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 7,
+    "id": "yifayuantong#j2-s007",
+    "title": "汗证"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 8,
+    "id": "yifayuantong#j2-s008",
+    "title": "健忘"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 9,
+    "id": "yifayuantong#j2-s009",
+    "title": "惊悸"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 10,
+    "id": "yifayuantong#j2-s010",
+    "title": "不卧"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 11,
+    "id": "yifayuantong#j2-s011",
+    "title": "痢证"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 12,
+    "id": "yifayuantong#j2-s012",
+    "title": "呃逆"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 13,
+    "id": "yifayuantong#j2-s013",
+    "title": "反胃"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 14,
+    "id": "yifayuantong#j2-s014",
+    "title": "癫狂"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 15,
+    "id": "yifayuantong#j2-s015",
+    "title": "胀满"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 16,
+    "id": "yifayuantong#j2-s016",
+    "title": "小儿抽掣"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 17,
+    "id": "yifayuantong#j2-s017",
+    "title": "中风"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 18,
+    "id": "yifayuantong#j2-s018",
+    "title": "中痰"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 19,
+    "id": "yifayuantong#j2-s019",
+    "title": "中食"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 20,
+    "id": "yifayuantong#j2-s020",
+    "title": "脱肛"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 21,
+    "id": "yifayuantong#j2-s021",
+    "title": "痔疮"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 22,
+    "id": "yifayuantong#j2-s022",
+    "title": "赤白浊"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 23,
+    "id": "yifayuantong#j2-s023",
+    "title": "血证门"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 24,
+    "id": "yifayuantong#j2-s024",
+    "title": "发斑"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 25,
+    "id": "yifayuantong#j2-s025",
+    "title": "痿躄"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 26,
+    "id": "yifayuantong#j2-s026",
+    "title": "虚劳"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 27,
+    "id": "yifayuantong#j2-s027",
+    "title": "厥证"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 28,
+    "id": "yifayuantong#j2-s028",
+    "title": "谵语"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 29,
+    "id": "yifayuantong#j2-s029",
+    "title": "女科门"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 30,
+    "id": "yifayuantong#j2-s030",
+    "title": "经水先期而至"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 31,
+    "id": "yifayuantong#j2-s031",
+    "title": "经水后期而至"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 32,
+    "id": "yifayuantong#j2-s032",
+    "title": "经来淋漓不断"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 33,
+    "id": "yifayuantong#j2-s033",
+    "title": "经水来多而色紫成块"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 34,
+    "id": "yifayuantong#j2-s034",
+    "title": "经水来少而色淡"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 35,
+    "id": "yifayuantong#j2-s035",
+    "title": "经水将行而腹痛"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 36,
+    "id": "yifayuantong#j2-s036",
+    "title": "经水行后而腹痛"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 37,
+    "id": "yifayuantong#j2-s037",
+    "title": "妇人经闭不行"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 38,
+    "id": "yifayuantong#j2-s038",
+    "title": "崩"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 39,
+    "id": "yifayuantong#j2-s039",
+    "title": "带"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 40,
+    "id": "yifayuantong#j2-s040",
+    "title": "求嗣约言"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 41,
+    "id": "yifayuantong#j2-s041",
+    "title": "小儿诸疾约言"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 2,
+    "section_no": 42,
+    "id": "yifayuantong#j2-s042",
+    "title": "外科约言"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 1,
+    "id": "yifayuantong#j3-s001",
+    "title": "伤寒溯源解"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 2,
+    "id": "yifayuantong#j3-s002",
+    "title": "辩温约言"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 3,
+    "id": "yifayuantong#j3-s003",
+    "title": "辩认邪盛热炽血伤病情"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 4,
+    "id": "yifayuantong#j3-s004",
+    "title": "干呕不止"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 5,
+    "id": "yifayuantong#j3-s005",
+    "title": "张目谵语"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 6,
+    "id": "yifayuantong#j3-s006",
+    "title": "口渴饮冷不止"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 7,
+    "id": "yifayuantong#j3-s007",
+    "title": "大汗如雨"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 8,
+    "id": "yifayuantong#j3-s008",
+    "title": "舌苔干黄烦躁不宁"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 9,
+    "id": "yifayuantong#j3-s009",
+    "title": "狂叫不避亲疏"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 10,
+    "id": "yifayuantong#j3-s010",
+    "title": "二便不利"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 11,
+    "id": "yifayuantong#j3-s011",
+    "title": "鼻如煤烟"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 12,
+    "id": "yifayuantong#j3-s012",
+    "title": "肛门似烙"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 13,
+    "id": "yifayuantong#j3-s013",
+    "title": "小便涓滴作痛"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 14,
+    "id": "yifayuantong#j3-s014",
+    "title": "食入即吐"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 15,
+    "id": "yifayuantong#j3-s015",
+    "title": "昏沉不省人事"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 16,
+    "id": "yifayuantong#j3-s016",
+    "title": "日晡发热饮冷妄言鬼神"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 17,
+    "id": "yifayuantong#j3-s017",
+    "title": "呃逆不止"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 18,
+    "id": "yifayuantong#j3-s018",
+    "title": "鼻血如注"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 19,
+    "id": "yifayuantong#j3-s019",
+    "title": "斑疹频发"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 20,
+    "id": "yifayuantong#j3-s020",
+    "title": "喉痛厥逆"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 21,
+    "id": "yifayuantong#j3-s021",
+    "title": "脓血下行不止"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 22,
+    "id": "yifayuantong#j3-s022",
+    "title": "皮毛干粗"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 23,
+    "id": "yifayuantong#j3-s023",
+    "title": "筋挛拘急"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 24,
+    "id": "yifayuantong#j3-s024",
+    "title": "阴囊如斗"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 25,
+    "id": "yifayuantong#j3-s025",
+    "title": "周身红块"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 26,
+    "id": "yifayuantong#j3-s026",
+    "title": "身冷如冰形如死人"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 27,
+    "id": "yifayuantong#j3-s027",
+    "title": "头面肿痛"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 28,
+    "id": "yifayuantong#j3-s028",
+    "title": "辩认阴盛阳衰及阳脱病情"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 29,
+    "id": "yifayuantong#j3-s029",
+    "title": "头痛如劈"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 30,
+    "id": "yifayuantong#j3-s030",
+    "title": "目痛如裂"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 31,
+    "id": "yifayuantong#j3-s031",
+    "title": "耳痒欲死"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 32,
+    "id": "yifayuantong#j3-s032",
+    "title": "印堂如镜"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 33,
+    "id": "yifayuantong#j3-s033",
+    "title": "唇赤如朱"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 34,
+    "id": "yifayuantong#j3-s034",
+    "title": "两颧发赤"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 35,
+    "id": "yifayuantong#j3-s035",
+    "title": "鼻涕如注"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 36,
+    "id": "yifayuantong#j3-s036",
+    "title": "口张气出"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 37,
+    "id": "yifayuantong#j3-s037",
+    "title": "眼胞下陷"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 38,
+    "id": "yifayuantong#j3-s038",
+    "title": "白眼轮青"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 39,
+    "id": "yifayuantong#j3-s039",
+    "title": "目肿如桃"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 40,
+    "id": "yifayuantong#j3-s040",
+    "title": "目常直视"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 41,
+    "id": "yifayuantong#j3-s041",
+    "title": "目光如华"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 42,
+    "id": "yifayuantong#j3-s042",
+    "title": "面色光彩"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 43,
+    "id": "yifayuantong#j3-s043",
+    "title": "面如枯骨"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 44,
+    "id": "yifayuantong#j3-s044",
+    "title": "齿牙血出"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 45,
+    "id": "yifayuantong#j3-s045",
+    "title": "牙肿如茄"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 46,
+    "id": "yifayuantong#j3-s046",
+    "title": "耳肿不痛"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 47,
+    "id": "yifayuantong#j3-s047",
+    "title": "喉痛饮滚"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 48,
+    "id": "yifayuantong#j3-s048",
+    "title": "咳嗽不已"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 49,
+    "id": "yifayuantong#j3-s049",
+    "title": "气喘唇青"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 50,
+    "id": "yifayuantong#j3-s050",
+    "title": "心痛欲死"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 51,
+    "id": "yifayuantong#j3-s051",
+    "title": "腹痛欲绝"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 52,
+    "id": "yifayuantong#j3-s052",
+    "title": "肠鸣泻泄"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 53,
+    "id": "yifayuantong#j3-s053",
+    "title": "大便下血"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 54,
+    "id": "yifayuantong#j3-s054",
+    "title": "小便下血"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 55,
+    "id": "yifayuantong#j3-s055",
+    "title": "精滴不已"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 56,
+    "id": "yifayuantong#j3-s056",
+    "title": "午后面赤"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 57,
+    "id": "yifayuantong#j3-s057",
+    "title": "身痒欲死"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 58,
+    "id": "yifayuantong#j3-s058",
+    "title": "大汗如雨"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 59,
+    "id": "yifayuantong#j3-s059",
+    "title": "大汗呃逆"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 60,
+    "id": "yifayuantong#j3-s060",
+    "title": "身热无神"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 61,
+    "id": "yifayuantong#j3-s061",
+    "title": "吐血身热"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 62,
+    "id": "yifayuantong#j3-s062",
+    "title": "大吐身热"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 63,
+    "id": "yifayuantong#j3-s063",
+    "title": "大泄身热"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 64,
+    "id": "yifayuantong#j3-s064",
+    "title": "午后身热"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 65,
+    "id": "yifayuantong#j3-s065",
+    "title": "皮毛出血"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 66,
+    "id": "yifayuantong#j3-s066",
+    "title": "阴囊缩入"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 67,
+    "id": "yifayuantong#j3-s067",
+    "title": "两脚大烧"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 68,
+    "id": "yifayuantong#j3-s068",
+    "title": "两手肿热"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 69,
+    "id": "yifayuantong#j3-s069",
+    "title": "两乳忽肿"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 70,
+    "id": "yifayuantong#j3-s070",
+    "title": "疮口不敛"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 71,
+    "id": "yifayuantong#j3-s071",
+    "title": "痘疮平塌"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 72,
+    "id": "yifayuantong#j3-s072",
+    "title": "肛脱不收"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 73,
+    "id": "yifayuantong#j3-s073",
+    "title": "小便不止"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 74,
+    "id": "yifayuantong#j3-s074",
+    "title": "腹痛即泄"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 75,
+    "id": "yifayuantong#j3-s075",
+    "title": "身疼无热"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 76,
+    "id": "yifayuantong#j3-s076",
+    "title": "身热无疼"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 77,
+    "id": "yifayuantong#j3-s077",
+    "title": "身冷内热"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 78,
+    "id": "yifayuantong#j3-s078",
+    "title": "身热内冷"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 79,
+    "id": "yifayuantong#j3-s079",
+    "title": "身重畏冷"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 80,
+    "id": "yifayuantong#j3-s080",
+    "title": "身强不用"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 81,
+    "id": "yifayuantong#j3-s081",
+    "title": "脚轻头重"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 82,
+    "id": "yifayuantong#j3-s082",
+    "title": "脚麻身软"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 83,
+    "id": "yifayuantong#j3-s083",
+    "title": "气喘脉劲"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 84,
+    "id": "yifayuantong#j3-s084",
+    "title": "吐血脉大"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 85,
+    "id": "yifayuantong#j3-s085",
+    "title": "虚劳脉动"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 86,
+    "id": "yifayuantong#j3-s086",
+    "title": "辩脉切要"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 87,
+    "id": "yifayuantong#j3-s087",
+    "title": "切脉金针"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 88,
+    "id": "yifayuantong#j3-s088",
+    "title": "相舌切要"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 89,
+    "id": "yifayuantong#j3-s089",
+    "title": "舌上白苔"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 90,
+    "id": "yifayuantong#j3-s090",
+    "title": "舌上黄苔"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 91,
+    "id": "yifayuantong#j3-s091",
+    "title": "舌上黑苔"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 92,
+    "id": "yifayuantong#j3-s092",
+    "title": "万病一气说"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 93,
+    "id": "yifayuantong#j3-s093",
+    "title": "胎元图"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 94,
+    "id": "yifayuantong#j3-s094",
+    "title": "胎元图说"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 95,
+    "id": "yifayuantong#j3-s095",
+    "title": "用药须知"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 96,
+    "id": "yifayuantong#j3-s096",
+    "title": "外感风寒忌收纳也"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 97,
+    "id": "yifayuantong#j3-s097",
+    "title": "内伤虚损忌发散也"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 98,
+    "id": "yifayuantong#j3-s098",
+    "title": "阳虚吐备忌滋阴也"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 99,
+    "id": "yifayuantong#j3-s099",
+    "title": "阴虚吐血忌温补也"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 100,
+    "id": "yifayuantong#j3-s100",
+    "title": "阳虚一切病证忌滋阴也"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 101,
+    "id": "yifayuantong#j3-s101",
+    "title": "阴虚一切病证忌温补也"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 102,
+    "id": "yifayuantong#j3-s102",
+    "title": "病有宜汗者"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 103,
+    "id": "yifayuantong#j3-s103",
+    "title": "病有不宜汗者"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 104,
+    "id": "yifayuantong#j3-s104",
+    "title": "病有宜吐者"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 105,
+    "id": "yifayuantong#j3-s105",
+    "title": "病有不宜吐者"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 106,
+    "id": "yifayuantong#j3-s106",
+    "title": "病有宜下者"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 107,
+    "id": "yifayuantong#j3-s107",
+    "title": "病有不宜下者"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 3,
+    "section_no": 108,
+    "id": "yifayuantong#j3-s108",
+    "title": "服药须知"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 1,
+    "id": "yifayuantong#j4-s001",
+    "title": "失血破疑说"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 2,
+    "id": "yifayuantong#j4-s002",
+    "title": "附：七绝一首"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 3,
+    "id": "yifayuantong#j4-s003",
+    "title": "益火之源以消阴翳辩解"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 4,
+    "id": "yifayuantong#j4-s004",
+    "title": "壮水之主以制阳光辨解"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 5,
+    "id": "yifayuantong#j4-s005",
+    "title": "申明阴盛扶阳阳盛扶阴的确宗旨"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 6,
+    "id": "yifayuantong#j4-s006",
+    "title": "邪正论"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 7,
+    "id": "yifayuantong#j4-s007",
+    "title": "客问参芪归地辨论"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 8,
+    "id": "yifayuantong#j4-s008",
+    "title": "分脾肾为先后二天解"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 9,
+    "id": "yifayuantong#j4-s009",
+    "title": "六客辨解"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 10,
+    "id": "yifayuantong#j4-s010",
+    "title": "胎前忌服药品解"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 11,
+    "id": "yifayuantong#j4-s011",
+    "title": "食气篇"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 12,
+    "id": "yifayuantong#j4-s012",
+    "title": "一气分为六气图"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 13,
+    "id": "yifayuantong#j4-s013",
+    "title": "一气分为六气图说"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 14,
+    "id": "yifayuantong#j4-s014",
+    "title": "太阳用药图"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 15,
+    "id": "yifayuantong#j4-s015",
+    "title": "桂枝汤圆通应用法"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 16,
+    "id": "yifayuantong#j4-s016",
+    "title": "太阳经腑用药图"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 17,
+    "id": "yifayuantong#j4-s017",
+    "title": "麻黄汤五苓散圆通就用法"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 18,
+    "id": "yifayuantong#j4-s018",
+    "title": "阳明经证用药图"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 19,
+    "id": "yifayuantong#j4-s019",
+    "title": "葛根汤圆通应用法"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 20,
+    "id": "yifayuantong#j4-s020",
+    "title": "阳明经用药图"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 21,
+    "id": "yifayuantong#j4-s021",
+    "title": "白虎汤圆通应用法"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 22,
+    "id": "yifayuantong#j4-s022",
+    "title": "阳明里症用药图"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 23,
+    "id": "yifayuantong#j4-s023",
+    "title": "大承气汤圆通就用法"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 24,
+    "id": "yifayuantong#j4-s024",
+    "title": "少阳经用药图"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 25,
+    "id": "yifayuantong#j4-s025",
+    "title": "小柴胡汤圆通应用法"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 26,
+    "id": "yifayuantong#j4-s026",
+    "title": "太阴经用药图"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 27,
+    "id": "yifayuantong#j4-s027",
+    "title": "理中汤圆通应用法"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 28,
+    "id": "yifayuantong#j4-s028",
+    "title": "少阴经用药图"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 29,
+    "id": "yifayuantong#j4-s029",
+    "title": "麻黄附子细辛汤四逆汤圆通应用法"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 30,
+    "id": "yifayuantong#j4-s030",
+    "title": "厥阴经用药图"
+  },
+  {
+    "book": "yifayuantong",
+    "juan": 4,
+    "section_no": 31,
+    "id": "yifayuantong#j4-s031",
+    "title": "乌梅丸圆通应用法"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 0,
+    "section_no": 0,
+    "id": "shanghanheng#j0-s000",
+    "title": "前置"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 0,
+    "section_no": 1,
+    "id": "shanghanheng#j0-s001",
+    "title": "电子版序"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 0,
+    "section_no": 2,
+    "id": "shanghanheng#j0-s002",
+    "title": "郑钦安原序"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 0,
+    "section_no": 3,
+    "id": "shanghanheng#j0-s003",
+    "title": "张仲景原序（校补）"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 0,
+    "section_no": 4,
+    "id": "shanghanheng#j0-s004",
+    "title": "前言"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 0,
+    "section_no": 5,
+    "id": "shanghanheng#j0-s005",
+    "title": "凡例"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 1,
+    "section_no": 0,
+    "id": "shanghanheng#j1-s000",
+    "title": "卷1·首"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 1,
+    "section_no": 1,
+    "id": "shanghanheng#j1-s001",
+    "title": "太阳上篇"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 2,
+    "section_no": 0,
+    "id": "shanghanheng#j2-s000",
+    "title": "卷2·首"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 2,
+    "section_no": 1,
+    "id": "shanghanheng#j2-s001",
+    "title": "太阳中篇"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 3,
+    "section_no": 0,
+    "id": "shanghanheng#j3-s000",
+    "title": "卷3·首"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 3,
+    "section_no": 1,
+    "id": "shanghanheng#j3-s001",
+    "title": "太阳下篇"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 4,
+    "section_no": 0,
+    "id": "shanghanheng#j4-s000",
+    "title": "卷4·首"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 4,
+    "section_no": 1,
+    "id": "shanghanheng#j4-s001",
+    "title": "阳明上篇"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 5,
+    "section_no": 0,
+    "id": "shanghanheng#j5-s000",
+    "title": "卷5·首"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 5,
+    "section_no": 1,
+    "id": "shanghanheng#j5-s001",
+    "title": "阳明中篇"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 6,
+    "section_no": 0,
+    "id": "shanghanheng#j6-s000",
+    "title": "卷6·首"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 6,
+    "section_no": 1,
+    "id": "shanghanheng#j6-s001",
+    "title": "阳明下篇"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 7,
+    "section_no": 0,
+    "id": "shanghanheng#j7-s000",
+    "title": "卷7·首"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 7,
+    "section_no": 1,
+    "id": "shanghanheng#j7-s001",
+    "title": "少阳篇"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 8,
+    "section_no": 0,
+    "id": "shanghanheng#j8-s000",
+    "title": "卷8·首"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 8,
+    "section_no": 1,
+    "id": "shanghanheng#j8-s001",
+    "title": "太阴〔全〕篇"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 9,
+    "section_no": 0,
+    "id": "shanghanheng#j9-s000",
+    "title": "卷9·首"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 9,
+    "section_no": 1,
+    "id": "shanghanheng#j9-s001",
+    "title": "少阴〔前〕篇"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 9,
+    "section_no": 2,
+    "id": "shanghanheng#j9-s002",
+    "title": "少阴〔后〕篇"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 10,
+    "section_no": 0,
+    "id": "shanghanheng#j10-s000",
+    "title": "卷10·首"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 10,
+    "section_no": 1,
+    "id": "shanghanheng#j10-s001",
+    "title": "厥阴上篇"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 10,
+    "section_no": 2,
+    "id": "shanghanheng#j10-s002",
+    "title": "厥阴中篇"
+  },
+  {
+    "book": "shanghanheng",
+    "juan": 10,
+    "section_no": 3,
+    "id": "shanghanheng#j10-s003",
+    "title": "厥阴下篇"
+  }
+]
