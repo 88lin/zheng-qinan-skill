@@ -25,7 +25,7 @@ from pathlib import Path
 
 for stream in (sys.stdout, sys.stderr):
     if hasattr(stream, "reconfigure"):
-        stream.reconfigure(errors="replace")
+        stream.reconfigure(encoding="utf-8", errors="replace")
 
 SKILL_ROOT = Path(__file__).resolve().parents[1]
 INDEXES_DIR = SKILL_ROOT / "indexes"

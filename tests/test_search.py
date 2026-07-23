@@ -19,7 +19,7 @@ class SearchCliTests(unittest.TestCase):
             [sys.executable, str(SEARCH), *args],
             cwd=ROOT,
             capture_output=True,
-            text=True,
+            encoding="utf-8",
             check=False,
         )
 
