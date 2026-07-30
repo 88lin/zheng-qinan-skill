@@ -33,39 +33,63 @@ metadata:
 4. 将郑钦安观点明确标成历史学术观点，不表述为现代医学共识。
 5. 原文含剂量、炮制或煎服细节时，可以为学术查证忠实引用，但不得将其改写为可执行建议。
 
+## How to run the scripts
+
+检索一律通过脚本进行，不要把索引或正文整文件读入上下文（见 Reading discipline）。
+
+```text
+python3 "${CLAUDE_SKILL_DIR}/scripts/search.py" <term> [--limit N] [--book <book>] [--index <name>]
+python3 "${CLAUDE_SKILL_DIR}/scripts/search.py" --id <doc-id> [--max-chars 0]
+python3 "${CLAUDE_SKILL_DIR}/scripts/list_by_type.py" formulas --with-counts
+```
+
+- 客户端不替换 `${CLAUDE_SKILL_DIR}` 时，改用该 skill 目录的绝对路径。不要写成 `python scripts/search.py`：它依赖当前工作目录，且很多 Linux/macOS 环境只有 `python3` 没有 `python`。
+- 常用参数：`--limit` 每组条数（0=不限）；`--show-full` 输出完整段落；`--max-chars` 单段字数上限（默认 4000，0=不限）；`--max-total-chars` 单次调用总字数上限（默认 20000）；`--index` 只用某份索引且不回退全文；`--no-variants` 关闭繁简归一化。
+- 退出码：有结果 `0`，无结果 `1`。
+- 繁体或异体字查询（如 `白通湯`、`醫理真傳`）在原词零命中时会自动做一次繁→简归一化并提示，无需手工转换。
+
+## Reading discipline
+
+- 索引文件体积很大（`indexes/symptoms.json` 约 650 KB，`formulas.json`/`themes.json` 各约 400 KB，`references/*-index.md` 350-590 KB）。**不要整文件读取**，一律用 `search.py` / `list_by_type.py` 查询。
+- 正文文件同样很大（`references/*.md` 250-480 KB）。需要整段原文时用 `--id <doc-id>` 取单段，或按 `<!-- id: ... -->` 锚点定点检索，不要通读整本。
+- 最长的段落接近 3 万字。默认 `--max-chars 4000` 会截断并提示；确认需要全文时再用 `--max-chars 0` 配合 `--limit 1`。
+- `--show-full` 搭配大 `--limit` 会输出数万字，先用摘录定位，再对确定的 doc ID 取全文。
+
 ## Retrieval routes
 
 ### Formula name
 
-- 先查 `indexes/formulas.json`，或运行 `python scripts/search.py <方名> --index formulas`。
-- 默认返回全部相关条目；结果很多时先给最相关的 3-5 条，并说明尚有更多命中。
-- 需要完整段落时加 `--show-full`，或按 doc ID 打开对应正文。
+- `python3 "${CLAUDE_SKILL_DIR}/scripts/search.py" <方名> --index formulas`（不确定词性时去掉 `--index`）。
+- 结果很多时先给最相关的 3-5 条，并说明尚有更多命中。
+- 需要完整段落时对具体 doc ID 使用 `--id`，而不是对整批结果加 `--show-full`。
 
 ### Symptom or colloquial term
 
 - 把用户用词当作文本检索词，不当作诊断证据。
-- 先查 `indexes/symptoms.json`。
-- 未命中时阅读 `references/beginner-questions.md`，只做古今检索词转换，再运行全文检索。
+- `search.py <症状> --index symptoms`。
+- 未命中时阅读 `references/beginner-questions.md`，只做古今检索词转换，再运行不带 `--index` 的检索（会自动回退全文）。
 - 不追问舌脉、寒热、二便等临床细节来替用户选方。
 
 ### Theory or topic
 
-- 先查 `indexes/themes.json`。
+- `search.py <术语> --index themes`。
 - 元阴元阳、坎中一阳、辨认阴阳等主题，优先查看《医理真传》卷一和卷四。
 
 ### Shanghan passage
 
-- 打开 `references/shanghanheng.md`，按篇名或条文关键字定位。
-- 区分仲景原文、郑论、校补文字和 `【阐释】`；不要把后人阐释归到郑钦安名下。
+- 先用条文关键字或篇名检索：`search.py <关键字> --book shanghanheng`。
+- 该书正文保留了“原文117”这类条文编号，可直接作为检索词。
+- 定位到篇后再用 `--id shanghanheng#j1-s001` 取整段；十篇每篇都是一个大段，务必配合 `--max-chars`。
+- 区分仲景原文、郑论、`（校补）` 文字和 `【阐释】`；不要把后人阐释归到郑钦安名下。
 
 ### Stable doc ID
 
-- 先在 `indexes/section-manifest.json` 核对 ID。
-- 再到 `references/<book>.md` 搜索同名 `<!-- id: ... -->` 锚点。
+- `search.py --id <book>#j<juan>-s<section>` 直接取整段。
+- 需要核对 ID 是否存在时再查 `indexes/section-manifest.json`（314 条）。
 
 ### Unknown route
 
-- 运行 `python scripts/search.py <term>`。脚本先查三份索引，再回退到三书全文。
+- `search.py <term>`：先查三份索引（一个词同时属于多份索引时三组都会给出），全部无同名 key 时回退三书全文。
 
 ## Output contract
 
@@ -77,7 +101,7 @@ metadata:
 摘录: <原文 100-300 字>
 ```
 
-多本命中时按《医理真传》→《医法圆通》→《伤寒恒论》的顺序展示。用户明确要求完整原文、摘录被截断或用于论文查证时，打开完整段落。
+多本命中时按《医理真传》→《医法圆通》→《伤寒恒论》的顺序展示。用户明确要求完整原文、摘录被截断或用于论文查证时，用 `--id` 打开对应段落。脚本若输出“无法在 references/ 中定位…”的警告，说明索引与语料不一致，应报告该问题而不是照抄摘录充当全文。
 
 ## Safety boundaries
 

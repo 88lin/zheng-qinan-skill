@@ -24,14 +24,28 @@
 
 ## 本地验证
 
-项目只依赖 Python 标准库。提交前运行：
+检索脚本与测试只依赖 Python 标准库（3.10+）。提交前运行：
 
-```powershell
-python -m unittest discover -s tests -v
-python -m py_compile scripts\search.py scripts\list_by_type.py
+```bash
+python3 -m unittest discover -s tests -v
+python3 -m py_compile scripts/search.py scripts/list_by_type.py scripts/build_variants.py
 ```
 
-新增脚本行为或修复非平凡缺陷时，请先增加能复现预期行为的测试。
+Windows 上把 `python3` 换成 `python`、路径分隔符换成 `\`。
+
+新增脚本行为或修复非平凡缺陷时，请先增加能复现预期行为的测试。数据层的约束（doc ID 可寻址、索引 key 与语料一致、索引 key 不含句读）都写在 `tests/test_data_integrity.py`，改动语料或索引后必须通过。
+
+## 生成物
+
+`indexes/variants.json`（繁体/异体 → 简体单字映射）由脚本生成，不要手工编辑。改动 `references/*.md` 的用字后重新生成：
+
+```bash
+python3 -m pip install zhconv        # 仅此步需要，检索与测试都不依赖
+python3 scripts/build_variants.py
+python3 scripts/build_variants.py --check
+```
+
+该映射只收录“语料中不存在的字形 → 语料中存在的字形”，以免把《乾坤大旨》这类语料原有字形改写掉。
 
 ## 许可
 

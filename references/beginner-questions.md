@@ -27,7 +27,7 @@
 
 推荐步骤：
 
-1. 先用用户原词运行 `python scripts/search.py <term>`。
+1. 先用用户原词运行 `python3 "${CLAUDE_SKILL_DIR}/scripts/search.py" <term>`。
 2. 未命中时，从表中选择一到两个近义检索词分别查询。
 3. 报告“文本命中”，不要写成“证候命中”。
 4. 如需扩展词义，只解释古籍用词，不据此推断用户病情。

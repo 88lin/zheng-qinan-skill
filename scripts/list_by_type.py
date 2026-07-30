@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """list_by_type.py — 列出郑钦安三书索引里所有的 key。
 
-用法:
-  python scripts/list_by_type.py formulas
-  python scripts/list_by_type.py symptoms
-  python scripts/list_by_type.py themes
-  python scripts/list_by_type.py all          # 三份索引汇总
-  python scripts/list_by_type.py formulas --with-counts   # 显示每个 key 命中的段数
+用法（skill 被安装到任意目录后，用绝对路径调用）:
+  python3 "${CLAUDE_SKILL_DIR}/scripts/list_by_type.py" formulas
+  python3 "${CLAUDE_SKILL_DIR}/scripts/list_by_type.py" symptoms
+  python3 "${CLAUDE_SKILL_DIR}/scripts/list_by_type.py" themes
+  python3 "${CLAUDE_SKILL_DIR}/scripts/list_by_type.py" all        # 三份索引汇总
+  python3 "${CLAUDE_SKILL_DIR}/scripts/list_by_type.py" formulas --with-counts  # 每个 key 的命中段数
 """
 from __future__ import annotations
 import argparse
